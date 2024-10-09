@@ -1,0 +1,4 @@
+storage/FCU-Voice-255_sample-data.pt filter=lfs diff=lfs merge=lfs -text
+storage/FCU-Voice-255_TNet-Full_checkpoint.pt filter=lfs diff=lfs merge=lfs -text
+storage/SINICA-MCDC-8_sample-data.pt filter=lfs diff=lfs merge=lfs -text
+storage/SINICA-MCDC-8_TNet-Full_checkpoint.pt filter=lfs diff=lfs merge=lfs -text

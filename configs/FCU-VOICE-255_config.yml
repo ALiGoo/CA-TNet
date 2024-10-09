@@ -1,0 +1,19 @@
+MODEL:
+  PRETRAIN_PATH: "storage/FCU-Voice-255_TNet-Full_checkpoint.pt"
+  
+DATASETS:
+  DATA: "storage/FCU-Voice-255_sample-data.pt"
+
+SOLVER:
+  BASE_LR: 1e-4
+  MAX_EPOCHS: 2048
+  SEQUENCE_PER_BATCH: 64
+  ITERS_TO_ACCUMULATE: 16
+  WEIGHT_DECAY: 2e-05
+
+TEST:
+  SEQUENCE_PER_BATCH: 64
+  EVALUATE_ONLY: "on"
+  DATA: "storage/FCU-Voice-255_sample-data.pt"
+
+OUTPUT_DIR: "log/FCU-Voice-255"
