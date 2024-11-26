@@ -1,6 +1,6 @@
 Learning and consolidating the contextualized contour representations of tones from F0 sequences and durational variations via transformers
 ===============
-This repository contains our implementation of the paper, "Learning and consolidating the contextualized contour representations of tones from F0 sequences and durational variations via transformers". ([Paper link here]()).
+This repository contains our implementation of the paper, "Learning and consolidating the contextualized contour representations of tones from F0 sequences and durational variations via transformers". ([Paper link here](https://pubs.aip.org/asa/jasa/article-abstract/156/5/3353/3320989/Learning-and-consolidating-the-contextualized?redirectedFrom=fulltext)).
 
 
 ## Installation
